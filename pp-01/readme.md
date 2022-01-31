@@ -5,9 +5,9 @@ Let’s start with something fun: a typeface-pairing game.
 1. Go to the TypeConnection game at http://www.typeconnection.com/. Play it until you arrive at
    three successful pairings. Record their URLs below:
 
-   1.http://www.typeconnection.com/step5/xi.php
-   2.http://www.typeconnection.com/step5/sp.php
-   3.http://www.typeconnection.com/step5/et.php
+   i.http://www.typeconnection.com/step5/xi.php
+   ii.http://www.typeconnection.com/step5/sp.php
+   iii.http://www.typeconnection.com/step5/et.php
 
 2. Next, head over to https://fonts.google.com/ and develop a pairing of Google Fonts that
    parallels one of your successful pairings from the TypeConnection game. The typefaces you choose
