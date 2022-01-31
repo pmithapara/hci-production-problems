@@ -5,7 +5,7 @@ Let’s start with something fun: a typeface-pairing game.
 1. Go to the TypeConnection game at http://www.typeconnection.com/. Play it until you arrive at
    three successful pairings. Record their URLs below:
 
-   1.
+   1.http://www.typeconnection.com/step5/xi.php
    2.
    3.
 
