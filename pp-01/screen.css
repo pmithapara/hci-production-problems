@@ -15,3 +15,10 @@ h1 {
   font-family: "Playfair Display", serif;
   font-weight: bold;
 }
+
+h2 {
+  margin-bottom: 0.25em;
+  font-size: 24px;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+}
