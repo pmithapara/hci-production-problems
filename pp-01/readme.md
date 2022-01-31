@@ -24,8 +24,8 @@ Let’s start with something fun: a typeface-pairing game.
 3. Make a record of your paired typefaces here (Name and URL on Google Fonts):
 
    Typeface One:
-     - Name:
-     - URL:
+     - Name: Playfair Display
+     - URL: https://fonts.google.com/specimen/Playfair+Display?query=Play#about
    Typeface Two:
      - Name:
      - URL:
