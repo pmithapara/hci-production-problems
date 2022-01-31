@@ -22,3 +22,7 @@ h2 {
   font-family: "Playfair Display", serif;
   font-weight: bold;
 }
+
+p {
+  margin-bottom: 0.5em;
+}
