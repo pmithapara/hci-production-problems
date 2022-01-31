@@ -7,3 +7,11 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
+
+
+h1 {
+  margin-bottom: 1em;
+  font-size: 24px;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+}
