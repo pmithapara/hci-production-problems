@@ -33,3 +33,7 @@ html {
   font-family: "Fauna One", serif;
   font-size: 1em; /* 16 / 16 = 1 */
 }
+
+#introduction, #why {
+  margin-bottom: 1em;
+}
