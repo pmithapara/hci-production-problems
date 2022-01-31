@@ -24,7 +24,10 @@ h2 {
 }
 
 p {
-  margin-bottom: 1em;
+  font-family: "Fauna One", serif;
+  font-size: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
 html {
