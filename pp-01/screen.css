@@ -19,10 +19,17 @@ h1 {
 h2 {
   margin-bottom: 0.25em;
   font-size: 18px;
-  font-family: "Fauna One", serif;
+  font-family: "Playfair Display", serif;
   font-weight: bold;
 }
 
 p {
   margin-bottom: 0.5em;
+}
+
+html {
+  padding: 1em;
+  line-height: 1.5em; /* 24 /16 = 1.5 */
+  font-family: "Fauna One", serif;
+  font-size: 16px;
 }
