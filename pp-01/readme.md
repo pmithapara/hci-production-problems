@@ -27,8 +27,8 @@ Let’s start with something fun: a typeface-pairing game.
      - Name: Playfair Display
      - URL: https://fonts.google.com/specimen/Playfair+Display?query=Play#about
    Typeface Two:
-     - Name:
-     - URL:
+     - Name: Fauna one
+     - URL: https://fonts.google.com/specimen/Fauna+One?query=Fauna&preview.text=bull&preview.text_type=custom
 
 4. Next, here in the `pp-01` directory, work with the starter HTML file to set up some content to
    show off your pairing and explain briefly why you chose the typefaces you did. The most basic
