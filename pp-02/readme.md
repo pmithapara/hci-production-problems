@@ -29,10 +29,10 @@ Your Rationale: Chicago is all about being bold and adventures. Therefore, I dec
 
 Your Palette URL:https://paletton.com/#uid=32N0o0kZXptk8r0vHlZry9128DL
 
-Your Rationale: Kids learn in many different ways, and color is an important element in their learning. Surprisingly, kids are attracted towards purple; therefore, I kept purple as my main color. Green represent a beginning and growth which can stimulate their brains to learn new stuff. There is also a hint of white shade which represents purity. 
+Your Rationale: Kids learn in many different ways, and color is an important element in their learning. Surprisingly, kids are attracted towards purple; therefore, I kept purple as my main color. Green represent a beginning and growth which can stimulate their brains to learn new stuff. There is also a hint of white shade which represents purity.
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
 Your Palette URL:https://paletton.com/#uid=73e2-0kY7++kgnuvHlZ3Z0w93uk
 
-Your Rationale:
+Your Rationale: Create a custom palette was the most fun out of all the others just like cybersecurity. There are a lot of opportunity in the field of cybersecurity as one has while creating their own color combination. I have used a mixture of light blue, light green, red, and a hint of orange. Blue is an unpredictable primary color. Why? well one can create many colors by combining blue to a warm color. There are many routes one can take, just like cybersecurity. There are multiple ways to fix a problem, by fixing one problem, we can create another problem too. 
