@@ -17,13 +17,13 @@ you choose. Use the Preview tab at the bottom of the palette preview.
 
 Your Palette URL:https://paletton.com/#uid=10z0u0k-mr-kAMYgWrcmj7eu89B
 
-Your Rationale: For the site introducing a new console gaming platform, I decided to go with orange with some shades of white and light grey because it is associates with change. Here I was trying to grab users attention without distracting them too much from the product and tried to persuade the message of a new beginning. 
+Your Rationale: For the site introducing a new console gaming platform, I decided to go with orange with some shades of white and light grey because it is associates with change. Here I was trying to grab users attention without distracting them too much from the product and tried to persuade the message of a new beginning.
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
 Your Palette URL:https://paletton.com/#uid=50z0u0kZXptnjpZuZ-GlS8ku89B
 
-Your Rationale:
+Your Rationale: Chicago is all about being bold and adventures. Therefore, I decided to use bright colors like red and lower saturation of yellow and orange. Bright colors can also trigger one's memory about their experiences with flowers. This can encourage a user to buy tickets for the tour. To display pictures for flowers and other scenery, we can utilize lower concentrated black as a backdrop. 
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
