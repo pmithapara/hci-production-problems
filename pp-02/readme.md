@@ -23,13 +23,13 @@ Your Rationale: For the site introducing a new console gaming platform, I decide
 
 Your Palette URL:https://paletton.com/#uid=50z0u0kZXptnjpZuZ-GlS8ku89B
 
-Your Rationale: Chicago is all about being bold and adventures. Therefore, I decided to use bright colors like red and lower saturation of yellow and orange. Bright colors can also trigger one's memory about their experiences with flowers. This can encourage a user to buy tickets for the tour. To display pictures for flowers and other scenery, we can utilize lower concentrated black as a backdrop. 
+Your Rationale: Chicago is all about being bold and adventures. Therefore, I decided to use bright colors like red and lower saturation of yellow and orange. Bright colors can also trigger one's memory about their experiences with flowers. This can encourage a user to buy tickets for the tour. To display pictures for flowers and other scenery, we can utilize lower concentrated black as a backdrop.
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
 Your Palette URL:https://paletton.com/#uid=32N0o0kZXptk8r0vHlZry9128DL
 
-Your Rationale:
+Your Rationale: Kids learn in many different ways, and color is an important element in their learning. Surprisingly, kids are attracted towards purple; therefore, I kept purple as my main color. Green represent a beginning and growth which can stimulate their brains to learn new stuff. There is also a hint of white shade which represents purity. 
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
