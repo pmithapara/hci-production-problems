@@ -21,7 +21,8 @@ Your Rationale:
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
+Your Palette URL:https://paletton.com/#uid=50z0u0kZXptnjpZuZ-GlS8ku89B
+
 Your Rationale:
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
