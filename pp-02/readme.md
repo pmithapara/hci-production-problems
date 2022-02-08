@@ -17,7 +17,7 @@ you choose. Use the Preview tab at the bottom of the palette preview.
 
 Your Palette URL:https://paletton.com/#uid=10z0u0k-mr-kAMYgWrcmj7eu89B
 
-Your Rationale: For the site introducing a new console gaming platform, I decided to go with orange with some shades of white and light grey because it associates with change. Here I was trying to grab users attention without distracting them too much from the product and tried to persuade the message of a new beginning. 
+Your Rationale: For the site introducing a new console gaming platform, I decided to go with orange with some shades of white and light grey because it is associates with change. Here I was trying to grab users attention without distracting them too much from the product and tried to persuade the message of a new beginning. 
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
