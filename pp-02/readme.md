@@ -27,7 +27,7 @@ Your Rationale:
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
+Your Palette URL:https://paletton.com/#uid=32N0o0kZXptk8r0vHlZry9128DL
 Your Rationale:
 
 4. A **custom color palette** for advertising a course on cybersecurity
