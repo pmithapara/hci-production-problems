@@ -30,7 +30,7 @@ Small commits to your Production Problems repository that include:
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
 * HCI Guideline One (URL): https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/data-entry/
-* Describe how you implemented that guideline in your sketch:
+* Describe how you implemented that guideline in your sketch: Firstly, before entering any data I tested the create account button. At first, the output looked the same to me as there were no indication of any wrong doing. Then I noticed the camouflage text which decided that all the required fields are empty. In order to correct that mistake, I used IOS guide to add red boxes and an red asterisk to show user the fields which require data. One can also just use the asterisk and avoid red boxes, so that the user feels less frightened after clicking the submit button. 
 
 * HCI Guideline Two (URL): https://developer.apple.com/design/human-interface-guidelines/ios/bars/navigation-bars/
 * Describe how you implemented that guideline in your sketch:
