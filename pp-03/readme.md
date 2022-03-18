@@ -36,7 +36,7 @@ Small commits to your Production Problems repository that include:
 * Describe how you implemented that guideline in your sketch: Secondly, when a user open the site on his desktop, he can see that there is an option for logging in and to view their cart. He can also see that there is a navigation bar on the left which can direct him to other pages. Yet on the on a mobile, one can't see those options. Therefore, I add an navigation bar which can help user to login and use other options. It will be easier form our user to navigate to different pages by using the navigation bar. This will increase their focus on the screen as well, since they are focusing just on the the task at hand. For login, there is also an button so that the user can be taken to our login page.
 
 * HCI Guideline Three (URL): https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/navigation/
-* Describe how you implemented that guideline in your sketch:
+* Describe how you implemented that guideline in your sketch: Lastly, everything was on one page which can be frustrating for our users. Therefore, I broke one page into three different pages, and create more space for user input. Now they will be able to see the required fields and focus on one page at a time. 
 
 For the Production Problem discussion next week, be sure to share your sketches and chosen
 guidelines.
