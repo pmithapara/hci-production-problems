@@ -40,7 +40,10 @@ Copy and paste the URL for your personal fork of the repository here: https://gi
 computer. Once you have cloned the forked copy, you should add the *upstream*, team repository as a
 second remote. Run `git remote add upstream` followed by the URL for your team’s repository.
 
-Write or copy & paste the output of `git remote -v` from your copy of the forked repository here:
+Write or copy & paste the output of `git remote -v` from your copy of the forked repository here: origin	git@github.com:pmithapara/project-4.git (fetch)
+origin	git@github.com:pmithapara/project-4.git (push)
+upstream	git@github.com:hci-code-monkeys/project-2.git (fetch)
+upstream	git@github.com:hci-code-monkeys/project-2.git (push)
 
 8. Next, on a feature branch called `self-intro`, all team members should add their names to the
 `README.md` file, along with brief sentence or two of what the member believes are his/her primary
