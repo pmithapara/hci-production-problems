@@ -34,7 +34,7 @@ a repository on a team member’s computer. **That will be your shared repositor
 6. Each member of the team should then fork the team repository from within the team organization
 on GitHub (so, too, should the team member who created the GitHub organization for your project).
 
-Copy and paste the URL for your personal fork of the repository here:
+Copy and paste the URL for your personal fork of the repository here: https://github.com/pmithapara/project-4
 
 7. Each member of the team should clone their forked copy of the repository to their local
 computer. Once you have cloned the forked copy, you should add the *upstream*, team repository as a
