@@ -25,7 +25,7 @@ you to take a survey, which you can take or just skip. Finally, create a new rep
 organization. Initializing it on GitHub with a `README.md` file is fine, unless you’ve already begun
 a repository on a team member’s computer. **That will be your shared repository for Project Two.**
 
-3. Copy and paste the URL for your team’s GitHub organization here:
+3. Copy and paste the URL for your team’s GitHub organization here: https://github.com/hci-code-monkeys
 
 4. Copy and paste the URL showing your team’s GitHub organization members here:
 
