@@ -16,8 +16,8 @@ for your first (and second) round of usability testing.
 
 * URLs for the usability checklists you’ve found:
 
-1.
-2.
+1. https://www.ionos.com/digitalguide/online-marketing/online-sales/what-is-good-web-usability/
+2. https://books.google.com/books?hl=en&lr=&id=L6_SDwAAQBAJ&oi=fnd&pg=PP1&dq=how+to+perform+a+usability+testing+for+web+app&ots=kAfGL-A9xa&sig=NPbIA7JELNINcS8sWHCTQA0S9jY#v=onepage&q=how%20to%20perform%20a%20usability%20testing%20for%20web%20app&f=false
 
 * Your team’s condensed ten-item, must-have usability checklist:
 
