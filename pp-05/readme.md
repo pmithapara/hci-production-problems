@@ -21,13 +21,13 @@ for your first (and second) round of usability testing.
 
 * Your team’s condensed ten-item, must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. A user has to do the least about of work to get a task done.
+2. Provide a seamless UI/UX which guides user when in need. This includes content which is easy to read and interpret.
+3. Follow WCAG guidelines.
+4. Site is responsive to user inputs, avoid broken likes, and accessible for other devices (table and mobile).
+5. Consistency: this goes for our color pallet typography, and content on page.
+6. JavaScript is used sensibly.
+7. Look for invalid input from user. 
+8. Have an acceptable loading time.
+9. Make sure customization, filter bar, works and is responsive to user need.
+10. Avoid loading pages with unwanted content which can distract user from the task on hand.
